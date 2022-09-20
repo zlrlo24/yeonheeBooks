@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "지구 끝의 온실",
+      "explain": "10만 부 판매돌파",
+      "price": 13500,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img001.jpg"
+    },
+    {
+      "id": 2,
+      "name": "문장과 순간",
+      "explain": "<여덟 단어> 저자 광고인 박웅현의 신작",
+      "price": 18000,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img002.jpg"
+    },
+    {
+      "id": 3,
+      "name": "아라의 소설",
+      "explain": "정세랑 월드의 다이제스트",
+      "price": 15000,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img003.jpg"
+    },
+    {
+      "id": 4,
+      "name": "땅콩일기2",
+      "explain": "빛과 사랑을 담은 두번째 이야기",
+      "price": 13500,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img004.jpg"
+    },
+    {
+      "id": 5,
+      "name": "하얼빈",
+      "explain": "<칼의 노래> 김훈의 새로운 대표작",
+      "price": 16000,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img005.jpg"
+    },
+    {
+      "id": 6,
+      "name": "아버지의 해방일지",
+      "explain": "정지아의 32년만의 장편소설",
+      "price": 15000,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img006.jpg"
+    },
+    {
+      "id": 7,
+      "name": "역행자",
+      "explain": "자기계발 분야 1위 ",
+      "price": 17500,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img007.jpg"
+    },
+    {
+      "id": 8,
+      "name": "불편한 편의점2",
+      "explain": "지친 하루 끝, 편의점의 여름밤",
+      "price": 14000,
+      "image": "https://zlrlo24.github.io/yeonheeBooks/images/img008.jpg"
+    }
+  ]
+}
