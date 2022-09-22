@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/yeonheeBooks/static/css/main.e868031a.css",
-    "main.js": "/yeonheeBooks/static/js/main.9cc29160.js",
+    "main.js": "/yeonheeBooks/static/js/main.939c03b5.js",
     "static/js/787.f535f66e.chunk.js": "/yeonheeBooks/static/js/787.f535f66e.chunk.js",
     "static/media/main-visual.png": "/yeonheeBooks/static/media/main-visual.b4b09503aa309f86e87e.png",
     "index.html": "/yeonheeBooks/index.html",
     "main.e868031a.css.map": "/yeonheeBooks/static/css/main.e868031a.css.map",
-    "main.9cc29160.js.map": "/yeonheeBooks/static/js/main.9cc29160.js.map",
+    "main.939c03b5.js.map": "/yeonheeBooks/static/js/main.939c03b5.js.map",
     "787.f535f66e.chunk.js.map": "/yeonheeBooks/static/js/787.f535f66e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e868031a.css",
-    "static/js/main.9cc29160.js"
+    "static/js/main.939c03b5.js"
   ]
 }
